@@ -28,7 +28,7 @@ Examples of unacceptable behavior by participants include:
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers at [contact@morphixapp.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers at [aammojahid@gmail.com]. All complaints will be reviewed and investigated promptly and fairly.
 
 The project maintainers are obligated to maintain confidentiality with regard to the reporter of an incident. Further details regarding enforcement policies can be found in our project’s contribution documentation.
 
