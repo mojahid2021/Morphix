@@ -121,8 +121,8 @@ public class MainActivity extends AppCompatActivity {
             Bitmap bitmap = BitmapFactory.decodeFile(imageFile.getAbsolutePath());
             AugmentedImageDatabase imageDatabase = new AugmentedImageDatabase(arFragment.getArSceneView().getSession());
 
-            // Add image to the database
-            float imageWidthInMeters = 0.1f;  // Image width in meters
+            // Add image to the database with correct dimensions (image width in meters)
+            float imageWidthInMeters = 0.1f;  // Example width, modify as necessary
             imageDatabase.addImage("captured_image", bitmap, imageWidthInMeters);
 
             // Set up ARCore configuration
