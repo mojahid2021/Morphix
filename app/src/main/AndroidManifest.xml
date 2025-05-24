@@ -7,6 +7,9 @@
     <uses-feature android:name="android.hardware.camera.autofocus" android:required="true"/>
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-feature android:name="android.hardware.camera.ar" android:required="true"/>
+    <uses-feature android:name="android.hardware.opengles.version" android:required="true" />
+    <uses-feature android:name="com.google.ar.core.depth" android:required="true" />
+    <uses-feature android:name="com.google.ar.core" android:required="true" />
 
     <application
         android:allowBackup="true"
